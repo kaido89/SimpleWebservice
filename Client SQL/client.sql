@@ -1,3 +1,6 @@
+--Create User to connect
+CREATE USER kaido;
+ALTER USER kaido WITH SUPERUSER;
 --Create DATABASE
 CREATE DATABASE kaido89;
 --Create Table
